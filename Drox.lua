@@ -139,7 +139,7 @@ end
 return var 
 end
 function Run(msg,data)  
-
+end
 if data.content and data.content.text and data.content.text.text then
 text = data.content.text.text
 end
